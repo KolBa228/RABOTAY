@@ -5,7 +5,7 @@
   "homepage": "https://goitacademy.github.io/RABOTAY",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /RABOTAYn/"
+    "build": "parcel build src/*.html --public-url /RABOTAY/"
   },
   "repository": {
     "type": "git",
